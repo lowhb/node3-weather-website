@@ -1,6 +1,3 @@
-console.log('Client js file loaded');
-
-
 
 
 const weatherForm = document.querySelector('form');
